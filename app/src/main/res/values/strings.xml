@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Sustainable Business Card</string>
+    <color name="white">#FFFFFF</color>
+
+    <string name="sustainabledestinationslogo">text_string</string>
+
+    <string name="welcomemessage">Hello responsible friend! \n Join the first SD Community</string>
+
+    <string name="uniquesellingproposition">The Travel Footprint of the World</string>
+
+    <string name="joinusbutton">Join us friend</string>
+
+</resources>
